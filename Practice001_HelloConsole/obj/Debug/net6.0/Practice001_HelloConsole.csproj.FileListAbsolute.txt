@@ -1,0 +1,15 @@
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\bin\Debug\net6.0\Practice001_HelloConsole.exe
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\bin\Debug\net6.0\Practice001_HelloConsole.deps.json
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\bin\Debug\net6.0\Practice001_HelloConsole.runtimeconfig.json
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\bin\Debug\net6.0\Practice001_HelloConsole.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\bin\Debug\net6.0\Practice001_HelloConsole.pdb
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.csproj.AssemblyReference.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.AssemblyInfoInputs.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.AssemblyInfo.cs
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\refint\Practice001_HelloConsole.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.pdb
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\Practice001_HelloConsole.genruntimeconfig.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1.3 - Знакомство с языками программирования\Practive\Practice001_HelloConsole\obj\Debug\net6.0\ref\Practice001_HelloConsole.dll
