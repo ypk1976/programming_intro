@@ -5,5 +5,3 @@ if( username == "Mitya") {
 } else {
     Console.Write("Hello, " + username);
 }
-
-//Console.WriteLine();
