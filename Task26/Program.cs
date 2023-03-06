@@ -7,11 +7,11 @@ Console.WriteLine("Введите натуральное число");
 int number = Convert.ToInt32(Console.ReadLine());
 int count = 0;
 
-Console.WriteLine($"Количество цифр в числе = {CountDigits(number)}");
+Console.WriteLine($"Количество цифр в числе {number} = {CountDigits(number)}");
 
 int CountDigits(int num)
 {
-    while (num > 0)
+    while (num != 0)
     {
         num = num / 10;
         count++;
