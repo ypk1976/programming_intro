@@ -3,22 +3,23 @@
 // нулями и единицами в случайном порядке.
 // [1,0,1,1,0,1,0,0]
 
-int[] array = new int[8]; // 0 1 2 3 4 5 6 7
+int[] array = new int[8];
 
-FillArray();
+FillArray(array);
 GetArray(array);
 
-void FillArray()
+void FillArray(int[] arr)
 {
-    for (int i = 0; i < array.Length; i++)
+    Random rand = new Random();
+    for (int i = 0; i < arr.Length; i++)
     {
-        array[i] = new Random().Next(0,2);
+        arr[i] = rand.Next(0,2);
     }
 }
 
 void GetArray(int[] arr){
     for (int i = 0; i < arr.Length; i++)
     {
-        Console.Write(arr[i]);
+        Console.Write($"{arr[i]} ");
     }
 }
