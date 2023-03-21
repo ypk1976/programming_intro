@@ -16,7 +16,7 @@ void GetRowAverage(int[,] matr)
         for (int j = 0; j < matrix.GetLength(0); j++)
             average += matr[j, i];
         double result = average / (matrix.GetLength(0));
-        Console.Write($"{result} ");
+        Console.Write($"{Math.Round(result, 1)} ");
     }
 }
 
