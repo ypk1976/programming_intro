@@ -42,9 +42,7 @@ int[] Convert2DArray(int[,] matr)
     for (int i = 0; i < matr.GetLength(0); i++)
     {
         for (int j = 0; j < matr.GetLength(1); j++)
-        {
             new_matr[n++] = matr[i, j];
-        }
     }
     return new_matr;
 }
@@ -56,9 +54,7 @@ void CountElements(int[] arr)
     for (int i = 0; i < arr.Length; i++)
     {
         if (arr[i] == element)
-        {
             count++;
-        }
         else
         {
             Console.WriteLine($"{element} встречается {count} раз");
